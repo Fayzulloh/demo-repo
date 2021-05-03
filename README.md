@@ -1,4 +1,6 @@
 # Paging Github
 
 Hello, Github. 
-For Whom The Bell Tolls
+Metallica Songs:
+  For Whom The Bell Tolls
+  Ride The Lightning
